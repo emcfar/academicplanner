@@ -36,6 +36,16 @@ This version frames your contribution as a catalyst for innovation—something h
 **Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
 **Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
 
+# Getting Started
+
+To use the academic planning worksheet:
+
+1. Open the Excel file.
+2. Select a program from the dropdown menu in B5.
+3. Fill in planned courses by term.
+4. Review credit totals and progress indicators.
+
+No macros or external plugins required.
 
 # License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
