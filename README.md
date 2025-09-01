@@ -1,6 +1,43 @@
-# Academic Planner
+# Project Overview
 
-## License
+## Academic Planning Tool for Academic Advising
+This project showcases a dynamic Excel-based planning tool designed to support graduate-level academic advising. Built with usability and clarity at its core, the tool enables advisors and students to collaboratively map out degree plans, experiment with course sequencing, and visualize academic progress—all without requiring additional software or institutional investment.
+
+Key features include:
+- **Interactive course selection** with dropdowns and conditional formatting
+- **Real-time** credit tracking and degree progress visualization
+- **Customizable templates** tailored to institutional programs (based on publicly available curriculum data).
+- **Zero-cost implementation**, leveraging native Excel functionality for accessibility and scalability.
+
+Originally developed for Western Seminary, this tool reflects a commitment to practical innovation in higher education—empowering users with intuitive design and data-driven decision support.
+
+# Outcome & Adoption
+The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. While the tool itself was not formally adopted, it served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department. The core principles and structure of the worksheet were retained in the final system, demonstrating its effectiveness as a proof of concept and its influence on institutional planning.
+
+This version frames your contribution as a catalyst for innovation—something hiring managers and recruiters love to see. If you’d like, I can help you write a short bullet-point version for your README or portfolio homepage too.
+
+# Demo
+
+(placeholder)
+
+# Skills, Strategies, & Tools Implemented
+
+## Strategies & Tools Applied
+- Named Ranges
+- Data Validation: Drop-down List
+- Cross-sheet referencing
+- Array Operators (\*)
+- Conditional Formatting
+
+## Excel Functions Used
+
+**Lookup & Reference**: VLOOKUP, MATCH, INDIRECT, OFFSET  
+**Logical & Error Handling**: IF, IFNA, IFERROR, ISNUMBER, NOT  
+**Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
+**Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
+
+
+# License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
