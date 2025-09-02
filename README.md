@@ -38,12 +38,15 @@ This version frames your contribution as a catalyst for innovation—something h
 
 # Getting Started
 
+⚠️ Note: This worksheet uses modern Excel functions such as LET, VSTACK, and SWITCH, which require Excel 2021, Excel 2024, Microsoft 365, or Excel for the web. Earlier versions of Excel will not support these features.
+
 To use the academic planning worksheet:
 
-1. Open the Excel file.
-2. Select a program from the dropdown menu in B5.
-3. Fill in planned courses by term.
-4. Review credit totals and progress indicators.
+1. Make sure you have at least Excel 2021
+2. Open the Excel file.
+3. Select a program from the dropdown menu in B5.
+4. Fill in planned courses by term.
+5. Review credit totals and progress indicators.
 
 No macros or external plugins required.
 
