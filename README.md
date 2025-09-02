@@ -14,8 +14,6 @@ Originally developed for Western Seminary, this tool reflects a commitment to pr
 # Outcome & Adoption
 The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. While the tool itself was not formally adopted, it served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department. The core principles and structure of the worksheet were retained in the final system, demonstrating its effectiveness as a proof of concept and its influence on institutional planning.
 
-This version frames your contribution as a catalyst for innovation—something hiring managers and recruiters love to see. If you’d like, I can help you write a short bullet-point version for your README or portfolio homepage too.
-
 # Demo
 
 (placeholder)
