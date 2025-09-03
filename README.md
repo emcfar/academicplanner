@@ -13,6 +13,7 @@ Originally developed for Western Seminary, this tool reflects a commitment to pr
 
 # Demo
 ## Basic functionality
+How to start an academic plan.
 ![Intro](https://github.com/user-attachments/assets/68ef29b6-0503-4738-b6cf-372eb59393e7)
 
 ## Data validation
