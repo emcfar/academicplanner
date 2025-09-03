@@ -12,7 +12,7 @@ Key features include:
 Originally developed for Western Seminary, this tool reflects a commitment to practical innovation in higher education—empowering users with intuitive design and data-driven decision support.
 
 # Outcome & Adoption
-The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department. The core principles and structure of the worksheet were retained in the final system, demonstrating its effectiveness as a proof of concept and its influence on institutional planning.
+The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
 
 # Demo
 
