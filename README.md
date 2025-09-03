@@ -11,16 +11,10 @@ Key features include:
 
 Originally developed for Western Seminary, this tool reflects a commitment to practical innovation in higher education—empowering users with intuitive design and data-driven decision support.
 
-# Outcome & Adoption
-The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
-
 # Demo
-
 ![Intro](https://github.com/user-attachments/assets/68ef29b6-0503-4738-b6cf-372eb59393e7)
 
-
 # Skills, Strategies, & Tools Implemented
-
 ## Strategies & Tools Applied
 - Named Ranges
 - Data Validation: Drop-down List
@@ -29,23 +23,23 @@ The academic planning worksheet was reviewed and tested by advising staff and ot
 - Conditional Formatting
 
 ## Excel Functions Used
-
 **Lookup & Reference**: VLOOKUP, MATCH, INDIRECT, OFFSET  
 **Logical & Error Handling**: IF, IFNA, IFERROR, ISNUMBER, NOT  
 **Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
 **Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
 
-# Getting Started
+# Outcome & Adoption
+The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
 
+# Getting Started
 ⚠️ Note: This worksheet uses modern Excel functions such as LET, VSTACK, and SWITCH, which require Excel 2021, Excel 2024, Microsoft 365, or Excel for the web. Earlier versions of Excel will not support these features.
 
 To use the academic planning worksheet:
 
-1. Make sure you have at least Excel 2021
-2. Open the Excel file.
-3. Select a program from the dropdown menu in B5.
-4. Fill in planned courses by term.
-5. Review credit totals and progress indicators.
+1. Open the Excel file.
+2. Select a program from the dropdown menu in cell B5.
+3. Fill in planned courses by term.
+4. Review credit totals and progress indicators.
 
 No macros or external plugins required.
 
