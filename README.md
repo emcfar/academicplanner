@@ -12,7 +12,13 @@ Key features include:
 Originally developed for Western Seminary, this tool reflects a commitment to practical innovation in higher education—empowering users with intuitive design and data-driven decision support.
 
 # Demo
+## Basic functionality
 ![Intro](https://github.com/user-attachments/assets/68ef29b6-0503-4738-b6cf-372eb59393e7)
+
+## Data validation
+Marking of planned courses (green with "X"), catching duplicate courses (red with "XX"), highlighting credit totals below finaid threshold (yellow), or an overly heavy credit load (red), 
+![Conditional Formatting](https://github.com/user-attachments/assets/02d32563-ed22-43eb-97c8-dbdfa6743c63)
+
 
 # Skills, Strategies, & Tools Implemented
 ## Strategies & Tools Applied
