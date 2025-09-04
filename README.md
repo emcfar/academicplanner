@@ -29,15 +29,21 @@ Originally developed for Western Seminary, this tool reflects a commitment to pr
 # Demo
 ## Basic Functionality
 How to start an academic plan.
-![Intro](https://github.com/user-attachments/assets/68ef29b6-0503-4738-b6cf-372eb59393e7)
+![Intro](https://github.com/user-attachments/assets/7de3efce-42af-451a-9978-3886b9daad5e)
 
 ## Conditional Formatting
-Marking of planned courses (green with "X"), catching duplicate courses (red with "XX"), highlighting credit totals below financial aid threshold (yellow), or an overly-heavy term credit load (red).
-![Conditional Formatting](https://github.com/user-attachments/assets/02d32563-ed22-43eb-97c8-dbdfa6743c63)
+- Marking of planned courses (green with "X")
+- Catching duplicate courses (red with "XX")
+- Highlighting credit totals below financial aid threshold (yellow)
+- Highlighting overly-heavy term credit load (red)
+![Conditional Formatting](https://github.com/user-attachments/assets/f1d7e703-a2ab-4040-9c78-5c7ac38b9d83)
 
 ## Reference Tables
-The hidden tabs which include all the lists and tables of courses, credits, degree audits, and etc. referenced to make the whole worksheet function
-![HIdden Tables](https://github.com/user-attachments/assets/c1e3c299-b9ec-4d4e-b816-d7c6fb14303b)
+The hidden sheets which include all the lists and tables that enable the worksheet to function:
+- Courses and credits
+- Degree audits
+- Equivalencies/substitutions
+![HIdden Tables](https://github.com/user-attachments/assets/d311b526-077c-4034-bf06-40c758216e70)
 
 # Outcome & Adoption
 The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
