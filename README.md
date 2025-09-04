@@ -24,7 +24,7 @@ Originally developed for Western Seminary, this tool reflects a commitment to pr
 **Lookup & Reference**: VLOOKUP, MATCH, INDIRECT, OFFSET  
 **Logical & Error Handling**: IF, IFNA, IFERROR, ISNUMBER, NOT  
 **Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
-**Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
+**Array & Dynamic Functions**: LET, SWITCH, UNIQUE, COUNTA, SUM
 
 # Demo
 ## Basic Functionality
@@ -53,7 +53,7 @@ The hidden sheets which include all the lists and tables that enable the workshe
 The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
 
 # Getting Started
-⚠️ Note: This worksheet uses modern Excel functions such as LET, VSTACK, and SWITCH, which require Excel 2021, Excel 2024, Microsoft 365, or Excel for the web. Earlier versions of Excel will not support these features.
+⚠️ Note: This worksheet uses modern Excel functions such as LET and SWITCH, which require Excel 2021, Excel 2024, Microsoft 365, or Excel for the web. Earlier versions of Excel will not support these features.
 
 To use the academic planning worksheet:
 
