@@ -38,7 +38,7 @@ How to start an academic plan.
 - Catching duplicate courses (red with "XX")
 - Highlighting credit totals below financial aid threshold (yellow)
 - Highlighting overly-heavy term credit load (red)
-- 
+  
 ![Conditional Formatting](https://github.com/user-attachments/assets/86db6460-64aa-4ec4-b035-9c6207fc7cb6)
 
 ## Reference Tables
@@ -46,7 +46,7 @@ The hidden sheets which include all the lists and tables that enable the workshe
 - Courses and credits
 - Degree audits
 - Equivalencies/substitutions
-- 
+  
 ![Hidden Pages](https://github.com/user-attachments/assets/45b34423-61a7-4170-bf72-8ced5a9da6cf)
 
 # Outcome & Adoption
