@@ -6,10 +6,25 @@ This project showcases a dynamic Excel-based planning tool designed to support g
 Key features include:
 - **Interactive course selection** with dropdowns and conditional formatting
 - **Real-time** credit tracking and degree progress visualization
-- **Customizable templates** tailored to institutional programs (based on publicly available curriculum data).
-- **Zero-cost implementation**, leveraging native Excel functionality for accessibility and scalability.
+- **Course equivalencies and subsitutions** accounted for and integrated
+- **Customizable templates** tailored to institutional programs (based on publicly available curriculum data)
+- **Zero-cost implementation**, leveraging native Excel functionality for accessibility and scalability
 
 Originally developed for Western Seminary, this tool reflects a commitment to practical innovation in higher education—empowering users with intuitive design and data-driven decision support.
+
+# Skills, Strategies, & Tools Implemented
+## Strategies & Tools Applied
+- Named Ranges
+- Data Validation: Drop-down List
+- Cross-sheet referencing
+- Operators (including for arrays, i.e. '\*')
+- Conditional Formatting
+
+## Excel Functions Used
+**Lookup & Reference**: VLOOKUP, MATCH, INDIRECT, OFFSET  
+**Logical & Error Handling**: IF, IFNA, IFERROR, ISNUMBER, NOT  
+**Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
+**Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
 
 # Demo
 ## Basic Functionality
@@ -20,20 +35,9 @@ How to start an academic plan.
 Marking of planned courses (green with "X"), catching duplicate courses (red with "XX"), highlighting credit totals below financial aid threshold (yellow), or an overly-heavy term credit load (red).
 ![Conditional Formatting](https://github.com/user-attachments/assets/02d32563-ed22-43eb-97c8-dbdfa6743c63)
 
-
-# Skills, Strategies, & Tools Implemented
-## Strategies & Tools Applied
-- Named Ranges
-- Data Validation: Drop-down List
-- Cross-sheet referencing
-- Operators (for arrays, i.e. '\*')
-- Conditional Formatting
-
-## Excel Functions Used
-**Lookup & Reference**: VLOOKUP, MATCH, INDIRECT, OFFSET  
-**Logical & Error Handling**: IF, IFNA, IFERROR, ISNUMBER, NOT  
-**Text Manipulation**: LEFT, VALUE, VALUETOTEXT  
-**Array & Dynamic Functions**: LET, SWITCH, VSTACK, UNIQUE, COUNTA, SUM
+## Reference Tables
+The hidden tabs which include all the lists and tables of courses, credits, degree audits, and etc. referenced to make the whole worksheet function
+![HIdden Tables](https://github.com/user-attachments/assets/c1e3c299-b9ec-4d4e-b816-d7c6fb14303b)
 
 # Outcome & Adoption
 The academic planning worksheet was reviewed and tested by advising staff and other stakeholders, who responded with consistently positive feedback on its usability, clarity, and practical value. It served as a functional prototype that directly informed the development of a customized, integrated solution built by the institution’s IT department.
